@@ -22,7 +22,7 @@ import org.powerbot.script.rt4.Magic;
 import org.powerbot.script.rt4.Magic.MagicSpell;
 import org.powerbot.script.rt4.Npc;
 
-@Script.Manifest(description = "Casts Weaken at varrock castle", name = "PowerWeaken")
+@Script.Manifest(description = "Casts spells at varrock castle", name = "PowerMage")
 
 public class Base extends PollingScript<ClientContext> implements PaintListener {
 
